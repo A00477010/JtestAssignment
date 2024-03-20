@@ -12,6 +12,12 @@ To get started with Hello Canada, follow these steps:
 4. Run `npm start` to start the development server.
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
+## Testing
+
+In this repository, you will find an updated app.test.js file containing five test cases implemented using JTest framework. To execute these test cases, simply run the command npm test in your terminal. This command will initiate the testing process and provide you with the results, allowing you to ensure the functionality and integrity of your application.
+![2024-03-20 at 08 53 12_7f3aca0d](https://github.com/A00477010/JtestAssignment/assets/144287467/1aaca949-7584-4fd5-b1b0-1d1405aeb585)
+
+
 ## Data Fetching
 
 Hello Canada uses json-server to fetch the data from a simple `db.json` file. The data is hosted on [https://my-json-server.typicode.com](https://my-json-server.typicode.com).
